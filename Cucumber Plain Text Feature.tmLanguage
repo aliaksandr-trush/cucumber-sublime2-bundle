@@ -15,7 +15,7 @@
 	<key>keyEquivalent</key>
 	<string>^~C</string>
 	<key>name</key>
-	<string>Gherkin</string>
+	<string>Feature</string>
 	<key>patterns</key>
 	<array>
 		<dict>
@@ -99,12 +99,12 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>keyword.language.gherkin.feature</string>
+					<string>keyword.language.cucumber.feature</string>
 				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>string.language.gherkin.feature.title</string>
+					<string>string.language.cucumber.feature.title</string>
 				</dict>
 			</dict>
 			<key>match</key>
@@ -117,7 +117,7 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>keyword.language.gherkin.feature.step</string>
+					<string>keyword.language.cucumber.feature.step</string>
 				</dict>
 			</dict>
 			<key>match</key>
@@ -130,12 +130,12 @@
 				<key>1</key>
 				<dict>
 					<key>name</key>
-					<string>keyword.language.gherkin.feature.scenario</string>
+					<string>keyword.language.cucumber.feature.scenario</string>
 				</dict>
 				<key>2</key>
 				<dict>
 					<key>name</key>
-					<string>string.language.gherkin.scenario.title.title</string>
+					<string>string.language.cucumber.scenario.title.title</string>
 				</dict>
 			</dict>
 			<key>match</key>
@@ -210,7 +210,7 @@
 		</dict>
 	</dict>
 	<key>scopeName</key>
-	<string>text.gherkin.feature</string>
+	<string>text.cucumber.feature</string>
 	<key>uuid</key>
 	<string>85E2C52C-9B16-4A54-81E7-6D8D3ADAEFA8</string>
 </dict>

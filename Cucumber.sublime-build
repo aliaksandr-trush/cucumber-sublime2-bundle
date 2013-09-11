@@ -1,0 +1,4 @@
+{
+	"shell_cmd": "cucumber $file",
+	"selector": "text.cucumber.feature"
+}
